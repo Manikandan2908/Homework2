@@ -1,9 +1,9 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "Post 1",
-      "description": "this is description 1"
+      "English": 1,
+      "Tamil": "Post 1",
+      "Maths": "this is description 1"
     },
     {
       "id": 2,
